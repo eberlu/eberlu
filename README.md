@@ -25,9 +25,6 @@
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
   </a>
   <a href="https://github.com/eberlu">
-    <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
-  </a>
-  <a href="https://github.com/eberlu">
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   </a>
 </div>
