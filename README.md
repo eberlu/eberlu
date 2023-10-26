@@ -28,19 +28,3 @@
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   </a>
 </div>
-
-<h3 align="center">
-  <i>Estudando...</i>
-</h3>
-
-<div align="center">
-
-  <a href="https://github.com/eberlu">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/eberlu">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  </a>
-  
-</div>
