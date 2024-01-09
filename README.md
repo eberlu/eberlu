@@ -1,8 +1,3 @@
-<p align="center" width="10px">
-    Olá, me chamo Luciano Eberhardt, tenho 28 anos e estou focado em programação para web desde 2015. <br>
-    Não tenho especialidade definida em back ou front mas o que mais me agrada é desenvolver API's seguindo o estilo REST.
-</p>
-
 <h3 align="center"> 
   <i>Langs</i>
 </h3>
